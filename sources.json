@@ -1,0 +1,145 @@
+{
+  "Aero": [
+    "https://www.aeronewstv.com/fr/",
+    "https://www.journal-aviation.com/",
+    "http://www.aeroweb-fr.net/actualites"
+  ],
+  "Anime": [
+    "https://adala-news.fr",
+    "https://otakumode.com/",
+    "https://www.animenewsnetwork.com/"
+  ],
+  "Art": [
+    "http://www.fubiz.net/"
+  ],
+  "Design": [
+    "https://www.smashingmagazine.com/",
+    "https://www.webdesignertrends.com",
+    "https://newflux.fr",
+    "https://www.ux-republic.com",
+    "https://www.awwwards.com",
+    "https://www.thebestdesigns.com/",
+    "https://designmodo.com",
+    "https://land-book.com",
+    "https://uxdesign.cc?source=rss----138adf9c44c---4"
+  ],
+  "Dev": [
+    "https://blog.teamtreehouse.com",
+    "https://tryolabs.com/blog/",
+    "https://hacks.mozilla.org",
+    "https://www.digitalocean.com/community/tutorials",
+    "https://www.freecodecamp.org/news",
+    "https://davidwalsh.name",
+    "https://medium.com/dailyjs?source=rss----f5105b08f43a---4",
+    "https://www.webcodegeeks.com",
+    "https://dzone.com",
+    "https://www.codementor.io/community/new",
+    "http://www.echojs.com",
+    "https://stackabuse.com/",
+    "https://sdtimes.com",
+    "https://alistapart.com"
+  ],
+  "Geek": [
+    "https://www.presse-citron.net",
+    "https://kulturegeek.fr",
+    "https://developer-tech.com",
+    "https://www.gameblog.fr/",
+    "https://thenextweb.com",
+    "https://www.01net.com/info/flux-rss/flux-toutes-les-actualites/",
+    "https://www.futura-sciences.com",
+    "https://www.ign.com/articles",
+    "https://thehackernews.com/",
+    "https://www.theverge.com/",
+    "https://gamergen.com/",
+    "https://www.blogdumoderateur.com"
+  ],
+  "News": [
+    "https://www.cnn.com/world/index.html"
+  ],
+  "Podcasts": [
+    "https://www.softwaredefinedtalk.com",
+    "https://atp.fm/",
+    "http://media.blubrry.com/devops_radio/www.devopsradio.libsyn.com/podcast",
+    "https://twit.tv/shows/the-tech-guy",
+    "https://talkpython.fm/",
+    "https://www.relay.fm/clockwise",
+    "https://kubernetespodcast.com",
+    "https://www.relay.fm/rocket"
+  ],
+  "Switch": [
+    "https://gamesmega.net"
+  ],
+  "Talks": [
+    "https://www.ted.com/talks"
+  ],
+  "Travel": [
+    "https://lesacados.com",
+    "https://www.danflyingsolo.com",
+    "https://oiseaurose.com",
+    "https://www.votretourdumonde.com",
+    "https://www.insidethetravellab.com"
+  ],
+  "Veille Algo": [
+    "https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA",
+    "https://blog.hackerrank.com"
+  ],
+  "Veille CSS": [
+    "https://bootstraptaste.com/feed/",
+    "https://wrapbootstrap.com/",
+    "https://css-tricks.com",
+    "https://blog.getbootstrap.com/"
+  ],
+  "Veille Design": [
+    "https://medium.muz.li?source=rss----5969bf7021a3---4",
+    "https://www.invisionapp.com/inside-design"
+  ],
+  "Veille Dev": [
+    "https://medium.com/better-programming?source=rss----d0b105d10f0a---4",
+    "https://codeburst.io?source=rss----61061eb0c96b---4",
+    "https://www.reddit.com/r/webdev/",
+    "https://news.humancoders.com/t/javascript",
+    "https://dev.to"
+  ],
+  "Veille Dev Blog": [
+    "https://stackoverflow.blog",
+    "https://github.blog",
+    "http://developers.googleblog.com/",
+    "http://scotch.io/feed",
+    "https://blog.getbootstrap.com/",
+    "https://web.dev"
+  ],
+  "Veille Jobs": [
+    "https://jobs.github.com",
+    "https://stackoverflow.com/jobs"
+  ],
+  "Veille Mac": [
+    "https://9to5mac.com",
+    "https://www.macrumors.com"
+  ],
+  "Veille Main Tech": [
+    "https://kubernetes.io/",
+    "https://www.docker.com/blog",
+    "https://nodejs.org/uk/",
+    "https://www.ansible.com/blog",
+    "http://pyfound.blogspot.com/",
+    "https://www.djangoproject.com/weblog/",
+    "https://brew.sh/",
+    "https://helm.sh/blog/",
+    "https://reactjs.org",
+    "https://blog.npmjs.org/",
+    "https://ecmascript-daily.github.io"
+  ],
+  "Veille Second Tech": [
+    "https://blog.angular.io?source=rss----447683c3d9a3---4",
+    "https://vuejsdevelopers.com",
+    "https://blogs.oracle.com/java-platform-group/compendium/rss",
+    "http://isocpp.org/blog",
+    "https://svelte.dev/blog"
+  ],
+  "Veille Social Network": [
+    "https://newsroom.pinterest.com/en",
+    "https://engineering.fb.com",
+    "https://blog.google/",
+    "https://www.microsoft.com/en-us/research"
+  ]
+}
